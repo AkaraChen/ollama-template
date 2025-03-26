@@ -23,10 +23,11 @@ services:
       - ollama:/root/.ollama
 volumes:
   ollama:
-```
+````
 
 Then run:
 
 ```bash
 docker compose build
 ```
+`
