@@ -30,4 +30,3 @@ Then run:
 ```bash
 docker compose build
 ```
-`
